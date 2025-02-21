@@ -2,10 +2,8 @@
 
 A metadata provider that fetches book information from Storytel's API.
 
-## Features
-
-- High-resolution cover images (640x640)
-- Smart title and series handling
+> [!NOTE]
+> This is a fork and provides an instance that works with more languages and fixes some bugs.
 
 ## Installation
 

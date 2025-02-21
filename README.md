@@ -59,6 +59,31 @@ A metadata provider that fetches book information from Storytel's API.
 - Formats series information as "Series Name, Number"
 - Maintains clean titles without series markers
 
+# Supported Regions
+
+| Language      | Country Code |
+|---------------|--------------|
+| arabic        | ae           |
+| bulgarian     | bg           |
+| english       | en/us        |
+| spanish       | es           |
+| finnish       | fi           |
+| french        | fr           |
+| germany       | de           |
+| indonesian    | id           |
+| icelandic     | is           |
+| italian       | it           |
+| korean        | kr           |
+| dutch         | nl           |
+| norwegian     | no           |
+| polish        | pl           |
+| portuguese    | pt           |
+| swedish       | se           |
+| thai          | th           |
+| turkish       | tr           |
+| hebrew        | il           |
+| danish        | dk           |
+
 ## License
 
 MIT License (Set by Revisor01.  No license file was provided in the repository)

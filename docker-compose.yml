@@ -5,7 +5,7 @@ services:
     build: .
     container_name: storytel-provider
     ports:
-      - "3000:3000"
+      - "3010:3010"
     restart: unless-stopped
     networks:
       - abs_network

@@ -3,7 +3,7 @@ const cors = require('cors');
 const StorytelProvider = require('./provider');
 
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3010;
 const auth = process.env.AUTH;
 
 app.use(cors());

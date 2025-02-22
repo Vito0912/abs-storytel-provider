@@ -65,7 +65,8 @@ A metadata provider that fetches book information from Storytel's API.
 |---------------|--------------|
 | arabic        | ae           |
 | bulgarian     | bg           |
-| english       | en/us        |
+| english       | en           |
+| english       | us           |
 | spanish       | es           |
 | finnish       | fi           |
 | french        | fr           |
